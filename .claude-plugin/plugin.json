@@ -1,0 +1,5 @@
+{
+  "name": "jira-creation",
+  "version": "1.0.0",
+  "description": "Turns a project's prd.md into reviewed user stories in stories.md, then creates them as Jira Stories after approval."
+}
